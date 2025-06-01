@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @gujardamini305
-- 👀 I’m interested in Java Backend Development.
+- 👋 Hi, I’m DAMINI GUJAR
+- 👀 I’m interested in DATA ANALYST.
 - 🌱 I’m currently learning Java, Spring Boot, MYSQL and Microservices.
 - 📫 How to reach me- gdamini305@gmail.com
 
